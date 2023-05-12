@@ -20,6 +20,16 @@ $OwnerId = ""; // Your OwnerID
 
 $SellerKey = ""; // Your Seller Key
 
+###### Make a file named .htaccess: 
+```
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html
+```
+
 # Known Bugs
 Currently None
 
