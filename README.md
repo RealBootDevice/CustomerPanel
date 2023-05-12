@@ -1,7 +1,11 @@
 # CustomerPanel
 Host your own authentication customer dashboard.
 
-Important to know if you don't have an Seller Plan on KeyAuth this won't work!
+###### Requirements: 
+```
+KeyAuth Seller Plan / Subscription - Upgrade at https://keyauth.cc/dashboard/upgrade/
+```
+
 
 [![Screenshot](https://cdn.discordapp.com/attachments/1094772945664098335/1106698081325555844/ByChangeGame.gif)](https://discordapp.com/users/1094988511783964843)
 
