@@ -1,6 +1,8 @@
 # CustomerPanel
 Host your own authentication customer dashboard.
 
+Leave me a star that motivates me to make more things like this❤️🙏🏽
+
 ###### Requirements: 
 ```
 KeyAuth Seller Plan / Subscription - Upgrade at https://keyauth.cc/dashboard/upgrade/
